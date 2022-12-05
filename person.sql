@@ -13,7 +13,7 @@ VALUES ('Aaron', 25, 165, 'Detroit', 'brown'),
 ('Eric', 40, 185, 'Dallas', 'red'),
 ('Tiffany', 33, 160, 'Orlando', 'purple'),
 ('Aliyah', 30, 168, 'New Jersey', 'white'),
-('Candace',22, 175, 'Denver', 'yellow');
+('Candace', 22, 175, 'Denver', 'yellow');
 -- 3
 SELECT * FROM person
 ORDER BY height DESC;
